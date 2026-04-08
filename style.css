@@ -668,7 +668,7 @@ nav {
   width: 130px;
   height: 130px;
   border-radius: 50%;
-  background: linear-gradient(135deg, var(--bp-warning), var(--bp-danger));
+  background: #000000;
   display: flex;
   align-items: center;
   justify-content: center;
